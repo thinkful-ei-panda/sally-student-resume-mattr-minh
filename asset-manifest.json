@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sally-student-resume-mattr-minh/static/css/main.c803f841.chunk.css",
+    "main.js": "/sally-student-resume-mattr-minh/static/js/main.77e69caf.chunk.js",
+    "main.js.map": "/sally-student-resume-mattr-minh/static/js/main.77e69caf.chunk.js.map",
+    "runtime-main.js": "/sally-student-resume-mattr-minh/static/js/runtime-main.b17a1897.js",
+    "runtime-main.js.map": "/sally-student-resume-mattr-minh/static/js/runtime-main.b17a1897.js.map",
+    "static/js/2.b9b0d979.chunk.js": "/sally-student-resume-mattr-minh/static/js/2.b9b0d979.chunk.js",
+    "static/js/2.b9b0d979.chunk.js.map": "/sally-student-resume-mattr-minh/static/js/2.b9b0d979.chunk.js.map",
+    "index.html": "/sally-student-resume-mattr-minh/index.html",
+    "precache-manifest.4fb71eadce563b9ea06f258abce53e2f.js": "/sally-student-resume-mattr-minh/precache-manifest.4fb71eadce563b9ea06f258abce53e2f.js",
+    "service-worker.js": "/sally-student-resume-mattr-minh/service-worker.js",
+    "static/css/main.c803f841.chunk.css.map": "/sally-student-resume-mattr-minh/static/css/main.c803f841.chunk.css.map",
+    "static/js/2.b9b0d979.chunk.js.LICENSE.txt": "/sally-student-resume-mattr-minh/static/js/2.b9b0d979.chunk.js.LICENSE.txt",
+    "static/media/sally-student-resume-pic.jpg": "/sally-student-resume-mattr-minh/static/media/sally-student-resume-pic.07b44746.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b17a1897.js",
+    "static/js/2.b9b0d979.chunk.js",
+    "static/css/main.c803f841.chunk.css",
+    "static/js/main.77e69caf.chunk.js"
+  ]
+}
